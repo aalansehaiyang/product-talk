@@ -7,12 +7,17 @@
 ### 产品
 
 * [从微信离职创业，我悟出了 10 条产品生存法则](product/1.md)
+* [怎样的竞品分析，才是我们所需要的？](http://mp.weixin.qq.com/s/zUxqcLGN4wAvRzF1H_MdSg)
+* [以豆瓣评分为例，如何做好产品分析](http://mp.weixin.qq.com/s/pv5H5lN60DBqXohafJBC3Q)
+* [除了产品经理，谁还需要产品思维？](http://mp.weixin.qq.com/s/1OpIxF0QqluoDJGHDpqBIA)
+* [亿级用户的产品，如何构建产品规划金字塔模型 ](http://mp.weixin.qq.com/s/wIWRe6a4gurVuw5_ztsDKg)
 
 ### 运营
 
 * [史上最全的APP运营推广方案~](http://mp.weixin.qq.com/s/lIvJppc1ksUtvuMt_2Jrjg)
 * [教你写出一流的文案](http://mp.weixin.qq.com/s/hZXqdT4McInqrnvzJVPJ7A)
 * [用户破3亿，独角兽网易云音乐是如何运营的](http://mp.weixin.qq.com/s/eNMj_IEZN092eYmq5pTTJg)
+* [猫眼电影UGC的运营思路、策略和措施](http://mp.weixin.qq.com/s/C6HvKBxiK8qx0R2JfkeNXg)
 * [运营眼中的产品观](http://mp.weixin.qq.com/s/aWd8VNZDEvmbC2up3ByoTA)
 
 ### 人物自传
