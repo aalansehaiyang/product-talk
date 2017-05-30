@@ -19,10 +19,13 @@
 * [用户破3亿，独角兽网易云音乐是如何运营的](http://mp.weixin.qq.com/s/eNMj_IEZN092eYmq5pTTJg)
 * [猫眼电影UGC的运营思路、策略和措施](http://mp.weixin.qq.com/s/C6HvKBxiK8qx0R2JfkeNXg)
 * [运营眼中的产品观](http://mp.weixin.qq.com/s/aWd8VNZDEvmbC2up3ByoTA)
+* [理解社区运营，先解开这几个常见分歧点](https://mp.weixin.qq.com/s/cSZ-Kbsfra-Gl16HHC8jHQ)
 
 ### 人物自传
 
 * [霸气雷军：我打了90个电话，挖了微软高管，7年干到100亿美元](http://mp.weixin.qq.com/s/3c42WKWFJpXZ2jrMN9cl0g)
+* [猛人张小龙：熬了23年，微信终于成了“互联网黑洞”](https://mp.weixin.qq.com/s/VjO5kFB2pjydsbqxLwFBHg)
+* [今日头条张一鸣：面试了2000个年轻人，混得好的都有这5种特质](https://mp.weixin.qq.com/s/DFh4Qaw5QolFc2MLIZZ6aw)
 
 
 ### 其它
