@@ -11,6 +11,7 @@
 * [以豆瓣评分为例，如何做好产品分析](http://mp.weixin.qq.com/s/pv5H5lN60DBqXohafJBC3Q)
 * [除了产品经理，谁还需要产品思维？](http://mp.weixin.qq.com/s/1OpIxF0QqluoDJGHDpqBIA)
 * [亿级用户的产品，如何构建产品规划金字塔模型 ](http://mp.weixin.qq.com/s/wIWRe6a4gurVuw5_ztsDKg)
+* [张小龙内部分享：我们只做一件事情，产品只有一个定位](https://mp.weixin.qq.com/s/8nrjDp6UoLM4OJlNnunxYw)
 
 ### 运营
 
@@ -31,3 +32,4 @@
 ### 其它
 
 * [“色流”产业十年风云录：40万大军，吸食百亿利润](http://mp.weixin.qq.com/s/j-Vd_LzyrktXzHGn4_jnBw)
+* [王兴的表格](https://mp.weixin.qq.com/s/flPI3IKirAYcj7dCeBzaQA)
