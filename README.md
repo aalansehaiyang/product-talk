@@ -15,12 +15,17 @@
 	* [以豆瓣评分为例，如何做好产品分析](http://mp.weixin.qq.com/s/pv5H5lN60DBqXohafJBC3Q)
 * ###### 知乎
 	* [我们需要向知乎学习什么？](https://mp.weixin.qq.com/s/_u49XuPAdi15AgHYtZ5okA)
+* ###### 网易
+	* [秒拍：755万日活，26.5亿次日播放，短视频数据运营的道与术](https://mp.weixin.qq.com/s/vdVDtMaETV12iHHE9OeB-w)
 * ###### 其它
 	* [怎样的竞品分析，才是我们所需要的？](http://mp.weixin.qq.com/s/zUxqcLGN4wAvRzF1H_MdSg)
 	* [除了产品经理，谁还需要产品思维？](http://mp.weixin.qq.com/s/1OpIxF0QqluoDJGHDpqBIA)
 	* [亿级用户的产品，如何构建产品规划金字塔模型 ](http://mp.weixin.qq.com/s/wIWRe6a4gurVuw5_ztsDKg)
 	* [知识分享的五种用户价值：从付费动机谈起](https://mp.weixin.qq.com/s/-Z6AmEhoMDw_G4jqmDiFoQ)
 	* [当用户在炫耀的时候，他是在炫耀什么](https://mp.weixin.qq.com/s/qqtwEDHmE2MZ9W6CJqDMZA)
+	* [从数据开始，深聊一下知识付费的商业模式与产品逻辑](https://mp.weixin.qq.com/s/UA3-wYS7PWBLgdogWFpO7Q)
+	* [产品经理的硬技能——业务建模](https://mp.weixin.qq.com/s/ARLlweylQo08G1Y1ONOEWA)
+
 
 ---
 ### 运营
@@ -31,6 +36,7 @@
 * [猫眼电影UGC的运营思路、策略和措施](http://mp.weixin.qq.com/s/C6HvKBxiK8qx0R2JfkeNXg)
 * [运营眼中的产品观](http://mp.weixin.qq.com/s/aWd8VNZDEvmbC2up3ByoTA)
 * [理解社区运营，先解开这几个常见分歧点](https://mp.weixin.qq.com/s/cSZ-Kbsfra-Gl16HHC8jHQ)
+* [盒马鲜生何以成为零售“新物种”？创始人侯毅亲述三项秘诀](https://mp.weixin.qq.com/s/nbP_CoWhowQyvBWvbuqoJA)
 
 ---
 ### 人物自传
