@@ -4,6 +4,7 @@
 
 这里主要收集一些优秀的产品、运营文章。开阔视野，提升自己的全局观。
 
+
 ### 产品
 
 * ###### 支付宝
@@ -38,12 +39,21 @@
 * [理解社区运营，先解开这几个常见分歧点](https://mp.weixin.qq.com/s/cSZ-Kbsfra-Gl16HHC8jHQ)
 * [盒马鲜生何以成为零售“新物种”？创始人侯毅亲述三项秘诀](https://mp.weixin.qq.com/s/nbP_CoWhowQyvBWvbuqoJA)
 
+
+
 ---
 ### 人物自传
 
 * [霸气雷军：我打了90个电话，挖了微软高管，7年干到100亿美元](http://mp.weixin.qq.com/s/3c42WKWFJpXZ2jrMN9cl0g)
 * [猛人张小龙：熬了23年，微信终于成了“互联网黑洞”](https://mp.weixin.qq.com/s/VjO5kFB2pjydsbqxLwFBHg)
 * [今日头条张一鸣：面试了2000个年轻人，混得好的都有这5种特质](https://mp.weixin.qq.com/s/DFh4Qaw5QolFc2MLIZZ6aw)
+
+
+---
+### 爬虫
+
+* [爬虫凶猛：爬支付宝、爬微信、窃取现金贷放贷数据](https://mp.weixin.qq.com/s/yegR4ThHxFz3B_0Euvy6Zw)
+
 
 ---
 ### 其它
