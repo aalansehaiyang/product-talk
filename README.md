@@ -18,6 +18,8 @@
 	* [我们需要向知乎学习什么？](https://mp.weixin.qq.com/s/_u49XuPAdi15AgHYtZ5okA)
 * ###### 网易
 	* [秒拍：755万日活，26.5亿次日播放，短视频数据运营的道与术](https://mp.weixin.qq.com/s/vdVDtMaETV12iHHE9OeB-w)
+* ###### 抖音
+	* [如何炼成日播放量过10亿的魔性抖音？](http://hdyxs.hundun.cn/Repo/h5_article_share/article_share.html?id=97789c72ad472274eb000f7c9136817d&from=timeline&isappinstalled=0)
 * ###### 其它
 	* [怎样的竞品分析，才是我们所需要的？](http://mp.weixin.qq.com/s/zUxqcLGN4wAvRzF1H_MdSg)
 	* [除了产品经理，谁还需要产品思维？](http://mp.weixin.qq.com/s/1OpIxF0QqluoDJGHDpqBIA)
@@ -26,6 +28,7 @@
 	* [当用户在炫耀的时候，他是在炫耀什么](https://mp.weixin.qq.com/s/qqtwEDHmE2MZ9W6CJqDMZA)
 	* [从数据开始，深聊一下知识付费的商业模式与产品逻辑](https://mp.weixin.qq.com/s/UA3-wYS7PWBLgdogWFpO7Q)
 	* [产品经理的硬技能——业务建模](https://mp.weixin.qq.com/s/ARLlweylQo08G1Y1ONOEWA)
+
 
 
 ---
@@ -53,6 +56,7 @@
 ### 爬虫
 
 * [爬虫凶猛：爬支付宝、爬微信、窃取现金贷放贷数据](https://mp.weixin.qq.com/s/yegR4ThHxFz3B_0Euvy6Zw)
+* [网络爬虫无处不在，无意的分享就能泄露你的隐私](http://mp.weixin.qq.com/s/3vUxbf8zP0En2sG3K9xXWA)
 
 
 ---
