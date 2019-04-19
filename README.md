@@ -58,6 +58,10 @@
 * [爬虫凶猛：爬支付宝、爬微信、窃取现金贷放贷数据](https://mp.weixin.qq.com/s/yegR4ThHxFz3B_0Euvy6Zw)
 * [网络爬虫无处不在，无意的分享就能泄露你的隐私](http://mp.weixin.qq.com/s/3vUxbf8zP0En2sG3K9xXWA)
 
+---
+### 创业
+
+* [池建强：难的不是从零打造一款产品，而是重新理解创业](https://mp.weixin.qq.com/s/sOL0t_5F8ThpLH_jzNIFpQ)
 
 ---
 ### 其它
